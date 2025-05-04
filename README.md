@@ -48,7 +48,7 @@ I'm revamping my GitHub profile to stand out during my job search, by combining:
 <table>
   <tr>
     <td width="200" valign="top">
-      <img src="DoHardThings.gif" width="350" height="350" align="left" />
+      <img src="DoHardThings.gif" width="350" height="330" align="left" />
     </td>
     <td valign="top"><br/>
         <p>While I’m not yet building projects, I’m currently focused on:</p>
