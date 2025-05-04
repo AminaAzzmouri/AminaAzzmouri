@@ -18,7 +18,7 @@ I'm revamping my GitHub profile to stand out during my job search, by combining:
 
     </td>
     <td>
-      <img src="Book Read GIF by Buffer.gif" width="300" height="300"/>
+      <img src="Book Read GIF by Buffer.gif" width="350" height="350"/>
     </td>
   </tr>
 </table>
@@ -48,7 +48,7 @@ I'm revamping my GitHub profile to stand out during my job search, by combining:
 <table>
   <tr>
     <td width="200" valign="top">
-      <img src="DoHardThings.gif" width="200" height="300" align="left" />
+      <img src="DoHardThings.gif" width="350" height="350" align="left" />
     </td>
     <td valign="top"><br/>
         <p>While I’m not yet building projects, I’m currently focused on:</p>
@@ -100,8 +100,8 @@ This drives my commitment to mastering not only **software engineering** princip
 ## 📈 GitHub Stats & Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AminaAzzmouri&show_icons=true&theme=tokyonight"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AminaAzzmouri&layout=compact&theme=tokyonight""/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AminaAzzmouri&show_icons=true&theme=dark&cache_bust=1"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AminaAzzmouri&layout=compact&theme=dark""/>
 </p>
 
 ---
